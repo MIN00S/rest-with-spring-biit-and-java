@@ -1,1 +1,1 @@
-# rest-with-spring-biit-and-java-erudio
+# rest-with-spring-biit-and-java
